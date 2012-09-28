@@ -1,12 +1,13 @@
-#Module: 8digits Monitoring Platform For WordPress
-#Author: 8digits <http://www.8digits.com>
+Module: 8digits Monitoring Platform For WordPress
 
-##DESCRIPTION
+Author: 8digits <http://www.8digits.com>
+
+#DESCRIPTION
 
 This module helps you integrate Wordpress with 8digits behaviour management system
 
 
-##INSTALLATION
+#INSTALLATION
 
 1. Extract the contents of the zip file at wp_content/plugins folder.
 2. Login to your wordpress admin console (generally at http://yoursite.com/wp-admin) 
