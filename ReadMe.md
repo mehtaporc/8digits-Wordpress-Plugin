@@ -4,13 +4,13 @@ Author: 8digits <http://www.8digits.com>
 
 #DESCRIPTION
 
-This module helps you integrate Wordpress with 8digits behaviour management system
+This module helps you integrate Wordpress with 8digits behaviour management system.
 
 
 #INSTALLATION
 
 1. Extract the contents of the zip file at wp_content/plugins folder.
-2. Login to your wordpress admin console (generally at http://yoursite.com/wp-admin) 
+2. Login to your wordpress admin console (generally at http://yoursite.com/wp-admin). 
 3. In the plugins section you'll see the menu item.
 4. Click on the 8digits plugin settings and enter the tracking code there. Now you are done. Happy tracking!
 
